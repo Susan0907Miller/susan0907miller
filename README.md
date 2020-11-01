@@ -18,7 +18,7 @@
 
 
 <div align="center" style="witdh:100%">
-  <h3 align="center"> :open_book: Front end skills</h3><br/>
+  <h3 align="center"> :open_book: Frontend skills</h3><br/>
   
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -38,7 +38,7 @@
 
 <div align="center" style="witdh:100%"> 
   <br/>
-  <h3 align="center"> :open_book: Back end skills</h3><br/>
+  <h3 align="center"> :open_book: Backend skills</h3><br/>
 
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
