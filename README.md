@@ -1,28 +1,12 @@
 <h1 align="center">Hi 👋, Welcom to my Github profile</h1>
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Susan%20Miller&animation=fadeIn&type=waving&color=gradient&height=200"/>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?text=Susan%20Miller&animation=fadeIn&type=waving&color=gradient&height=170"/>
 <h3 align="center">Full Stack Developer</h3>
 
 <h4 align="left">Full-Stack Developer & Technical Lead with 5+ years of experience building scalable web applications and leading cross-functional teams. Expert in React, Vue.js, Laravel, Django, and modern DevOps practices. Proven track record in delivering enterprise e-commerce platforms, HealthTech dashboards, and other high-impact projects. Adept at mentoring developers, optimizing workflows, and driving Agile delivery.</h4>
 
-<div align="center" style="margin-bottom: 40px; margin-top: 40px;">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=cchillyard&theme=onedark&hide_border=true&include_all_commits=true&line_height=27"/>
-  <br>
-  <br>
-</div>
+- 💬 Ask me about **Laravel,Vue.js,Node.js, Golang and React, TypeScript, Next.js**
 
-<div align="center" style="witdh:100%"> 
-  <img src = "https://github-readme-stats.vercel.app/api?username=cchillyard&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27">  
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=cchillyard&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
-  <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cchillyard&hide=PHP,html,c&theme=tokyonight&hide_border=true&line_height=27">    
-</div>
-
-- 💬 Ask me about **Node.js, Python, Golang and React**
-
-- 📫 How to reach me **colleen.cl.hillyard@gmail.com**
-
-- 🆔 Linkedin Profile [https://linkedin.com/in/c-hillyard](https://linkedin.com/in/c-hillyard)
+- 📫 How to reach me **susan0907miller@gmail.com**
 
 - 📄 How to get my career [https://hillyard.netlify.app](https://hillyard.netlify.app)
 
