@@ -1,17 +1,16 @@
-<h1 align="center">Hi 👋,  to my Github profile</h1>
+<h1 align="center">Hi 👋, Wecom to my Github profile</h1>
 
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api
     ?type=waving
-    &color=timeGradient
-    &height=160
+    &color=0:ff9a9e,100:a18cd1
+    &height=180
     &text=Susan%20Miller
-    &fontSize=52
-    &fontAlignY=40
-    &animation=twinkling
-    &stroke=ffffff
-    &strokeWidth=1"
+    &fontSize=54
+    &fontAlignY=38
+    &animation=fadeIn
+"
 />
 
 <h3>👀 Open to work!</h3>
