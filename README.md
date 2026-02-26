@@ -6,8 +6,8 @@
 - 💬 Ask me about **Laravel,Vue.js,Node.js, Golang and React, TypeScript, Next.js**
 
 - 📫 How to reach me **susan0907miller@gmail.com**
-
-- 📄 How to get my career [https://hillyard.netlify.app](https://hillyard.netlify.app)
+What Can I do?
+<h4 align="left"></h4>
 
 
 
